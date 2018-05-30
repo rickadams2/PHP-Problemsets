@@ -1,1 +1,66 @@
-# PHP-Problemsets
+**NL:** Zie correponderende repo. 
+**EN**: See corresponding repo.
+
+
+
+-   [Hello World](repo) The classical introductory exercise. Just say "Hello, World!"
+-   [Hamming](repo) Calculate the Hamming difference between two DNA strands.
+-   [Gigasecond](repo) Calculate the moment when someone has lived for 10^9 seconds.
+-   [Bob](repo) Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+-   [Run Length Encoding](repo) Implement run-length encoding and decoding.
+-   [Pangram](repo) Determine if a sentence is a pangram.
+-   [Rna Transcription](repo) Given a DNA strand, return its RNA Complement Transcription.
+-   [Raindrops]repo) Convert a number to a string, the contents of which depend on the number's factors.
+-   [Isogram](repo) Determine if a word or phrase is an isogram.
+-   [Difference Of Squares](repo) Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
+-   [Largest Series Product](repo) Given a string of digits, calculate the largest product for a contiguous substring of digits of length n.
+-   [Roman Numerals](repo) Write a function to convert from normal numbers to Roman Numerals.
+-   [Sieve](repo) Use the Sieve of Eratosthenes to find all the primes from 2 up to a given number.
+-   [Pig Latin]repo) Implement a program that translates from English to Pig Latin
+-   [Robot Name](repo) Manage robot factory settings.
+-   [Leap](repo) Given a year, report if it is a leap year.
+-   [Word Count](repo) Given a phrase, count the occurrences of each word in that phrase.
+-   [Anagram](repo) Given a word and a list of possible anagrams, select the correct sublist.
+-   [Trinary](repo) Convert a trinary number, represented as a string (e.g. '102012'), to its decimal equivalent using first principles.
+-   [Bowling](repo) Score a bowling game
+-   [Clock](repo) Implement a clock that handles times without dates.
+-   [Wordy](repo) Parse and evaluate simple math word problems returning the answer as an integer.
+-   [Connect](repo) Compute the result for a game of Hex / Polygon
+-   [Minesweeper](repo) Add the numbers to a minesweeper board
+-   [Change](repo) Correctly determine change to be given using the least number of coins
+-   [Phone Number](repo) Clean up user-entered phone numbers so that they can be sent SMS messages.
+-   [Beer Song](repo) Produce the lyrics to that beloved classic, that field-trip favorite: 99 Bottles of Beer on the Wall.
+-   [Atbash Cipher](repo) Create an implementation of the atbash cipher, an ancient encryption system created in the Middle East.
+-   [Bracket Push](repo) Make sure the brackets and braces all match.
+-   [Binary](repo) Convert a binary number, represented as a string (e.g. '101010'), to its decimal equivalent using first principles
+-   [Accumulate](repo) Implement the `accumulate` operation, which, given a collection and an operation to perform on each element of the collection, returns a new collection containing the result of applying that operation to each element of the input collection.
+-   [Variable Length Quantity](repo) Implement variable length quantity encoding and decoding.
+-   [Acronym](repo) Convert a long phrase to its acronym
+-   [Nucleotide Count](repo) Given a DNA string, compute how many times each nucleotide occurs in the string.
+-   [Triangle](repo) Determine if a triangle is equilateral, isosceles, or scalene.
+-   [Etl](repo) We are going to do the `Transform` step of an Extract-Transform-Load.
+-   [Space Age](repo) Given an age in seconds, calculate how old someone is in terms of a given planet's solar years.
+-   [Allergies](repo) Given a person's allergy score, determine whether or not they're allergic to a given item, and their full list of allergies.
+-   [Markdown](repo) Refactor a Markdown parser
+-   [Grains](repo) Calculate the number of grains of wheat on a chessboard given that the number on each square doubles.
+-   [Robot Simulator](repo) Write a robot simulator.
+-   [Ocr Numbers](repo) Given a 3 x 4 grid of pipes, underscores, and spaces, determine which number is represented, or whether it is garbled.
+-   [Book Store](repo) To try and encourage more sales of different books from a popular 5 book series, a bookshop has decided to offer discounts of multiple-book purchases.
+-   [Queen Attack](repo) Given the position of two queens on a chess board, indicate whether or not they are positioned so that they can attack each other.
+-   [Scrabble Score](repo) Given a word, compute the scrabble score for that word.
+-   [Grade School](repo) Given students' names along with the grade that they are in, create a roster for the school
+-   [Luhn](repo) Given a number determine whether or not it is valid per the Luhn formula.
+-   [Perfect Numbers](repo) Determine if a number is perfect, abundant, or deficient based on Nicomachus' (60 - 120 CE) classification scheme for natural numbers.
+-   [Sum Of Multiples](repo) Given a number, find the sum of all the multiples of particular numbers up to but not including that number.
+-   [Pascals Triangle](repo) Compute Pascal's triangle up to a given number of rows.
+-   [Nth Prime](repo) Given a number n, determine what the nth prime is.
+-   [Binary Search](repo) Implement a binary search algorithm.
+-   [Prime Factors](repo) Compute the prime factors of a given natural number.
+-   [Flatten Array](repo) Take a nested list and return a single list with all values except nil/null
+-   [Collatz Conjecture](repo) Calculate the number of steps to reach 1 using the Collatz conjecture
+-   [Crypto Square](repo) Implement the classic method for composing secret messages called a square code.
+-   [Series](repo) Given a string of digits, output all the contiguous substrings of length `n` in that string.
+-   [Transpose](repo) Take input text and output it transposed.
+-   [Meetup](repo) Calculate the date of meetups.
+-   [All Your Base](repo) Convert a number, represented as a sequence of digits in one base, to any other base.
+-   [Rail Fence Cipher](repo) Implement encoding and decoding for the rail fence cipher.
